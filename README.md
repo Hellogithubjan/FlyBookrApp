@@ -1,8 +1,8 @@
 Flybookr Flight Ticket Booking System
   Flybookr.com is a Flight Ticket Booking System built using PHP and MySQL database. It allows users to search for flights, view available flights, and book tickets.
 
-Features:
-User Registration: Users can create an account to access the flight booking system.
+Features:<br>
+User Registration: Users can create an account to access the flight booking system<br>.
 Flight Search: Users can search for flights based on their departure and destination locations and travel dates.
 Flight Listing: The system displays a list of available flights based on the search criteria along with its detailed information about a specific flight, including the airline, departure time, arrival time, and ticket price.
 Passenger Details : The user will have to enter the details of the passengers boarding the flight.
