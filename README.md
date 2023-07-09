@@ -24,10 +24,10 @@ Bootstrap: The CSS framework used for responsive and mobile-first design.
 Git: The version control system used to track changes in the project codebase.
 
 
-Installation
+Installation:
 To run the Flybookr Flight Ticket Booking System locally, follow these steps:
 
-Clone the repository: git clone https://github.com/Hellogithubjan/FlybookrApp.git
+Clone the repository: git clone https://github.com/Hellogithubjan/FlybookrApp.git 
 Create a MySQL database and import the provided SQL file (flybookr.sql) to set up the necessary tables.
 Deploy the project to a local web server (e.g., XAMPP, WAMP, or MAMP).
 Access the system using a web browser at http://localhost/flybookr.
