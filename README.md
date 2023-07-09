@@ -1,7 +1,7 @@
-<h2>Flybookr Flight Ticket Booking System</h2>
+<h1>Flybookr Flight Ticket Booking System</h1>
   Flybookr.com is a Flight Ticket Booking System built using PHP and MySQL database. It allows users to search for flights, view available flights, and book tickets.
 
-<h2>Features:</h2><br>
+<h1>Features:</h1><br>
   <ul>
 <li><strong>User Registration:</strong> Users can create an account to access the flight booking system</li>
 <li><strong>Flight Search:</strong> Users can search for flights based on their departure and destination locations and travel dates</li>
@@ -16,19 +16,22 @@
 <li><strong>Admin Panel:</strong> An admin panel is available for system administrators to manage flights, airlines, and user bookings</li>
 </ul>
 
-Technologies Used:
-PHP: The server-side scripting language used to build the backend logic of the flight booking system<br>
-MySQL: The relational database management system used to store and retrieve flight and user data<br>
-HTML/CSS: The markup and styling languages used to create the user interface of the flight booking system<br>
-JavaScript: The programming language used for client-side interactions and form validations<br>
-Bootstrap: The CSS framework used for responsive and mobile-first design<br>
-Git: The version control system used to track changes in the project codebase<br>
+<h1>Technologies Used</h1>
+<ul>
+  <li><strong>PHP:<strong> The server-side scripting language used to build the backend logic of the flight booking system.</li>
+  <li><strong>MySQL:<strong> The relational database management system used to store and retrieve flight and user data.</li>
+  <li><strong>HTML/CSS:<strong> The markup and styling languages used to create the user interface of the flight booking system.</li>
+  <li><strong>JavaScript:<strong> The programming language used for client-side interactions and form validations.</li>
+  <li><strong>Bootstrap:<strong> The CSS framework used for responsive and mobile-first design.</li>
+  <li><strong>Git:<strong> The version control system used to track changes in the project codebase.</li>
+</ul>
 
 
-Installation:
+<h1>Installation:</h1><br>
 To run the Flybookr Flight Ticket Booking System locally, follow these steps:
-
-Clone the repository: git clone https://github.com/Hellogithubjan/FlybookrApp.git <br>
-Create a MySQL database and import the provided SQL file (flybookr.sql) to set up the necessary tables<br>
-Deploy the project to a local web server (e.g., XAMPP, WAMP)<br>
-Access the system using a web browser at http://localhost/flybookr<br>
+<ul>
+<li><strong>Clone the repository:<strong> git clone https://github.com/Hellogithubjan/FlybookrApp.git</li>
+<li><strong>Create a MySQL database and import the provided SQL file (flybookr.sql) to set up the necessary tables</li>
+<li><strong>Deploy the project to a local web server (e.g., XAMPP, WAMP)</li>
+<li><strong>Access the system using a web browser at http://localhost/flybookr</li>
+</ul>
